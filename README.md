@@ -14,7 +14,7 @@ Electric ⚡.
 Naast hun type, hebben Pokèmon natuurlijk bepaalde eigenschappen met elkaar gemeen. Daarom maken we gebruik van een
 Super klasse. 
 
-![Pokemon!](./assets/pokemon.JPG)
+![Pokemon!](./Assets/pokemon.JPG)
 
 ## Randvoorwaarden
 
