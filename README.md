@@ -12,7 +12,7 @@ te maken, maken we gebruik van één type per Pokèmon). Voorbeelden van deze ty
 Electric ⚡.
 
 Naast hun type, hebben Pokèmon natuurlijk bepaalde eigenschappen met elkaar gemeen. Daarom maken we gebruik van een
-Super klasse.
+Super klasse. 
 
 ![Pokemon!](./assets/pokemon.JPG)
 
