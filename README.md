@@ -21,7 +21,7 @@ Super klasse.
 De applicatie moet voldoen aan het volgende:
 
 - Een Super klasse waarvan minimaal 2 `private` variabelen, 1 constructor, 2 methodes, 2 getters en 2 setters;
-- 4 subklassen die, naast alles dat ze erven, zelf ook minimaal 4 `private` variabelen, 1 constructor, 2 methodes, 1 `override` methode, 2 getters en 2
+- 4 subklassen die, naast alles dat ze erven, zelf ook minimaal 2`private` variabelen, 1 constructor, 2 methodes, 1 `override` methode, 2 getters en 2
   setters bevatten. _Tip_: wil je wat inspiratie bij het bedenken van variabelen en methodes op het gebied van Pokèmon? Bekijk de
   inspiratie-sectie hieronder eens.
 - Een `main`-klasse met een `main`-methode;
