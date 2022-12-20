@@ -37,6 +37,6 @@ public class Pokemon {
     double typeEff = Types.getCalc(attackMove.type, defendingPokemon.primaryType);
     if (Arrays.asList(Types.types).contains(defendingPokemon.secondaryType.type)) typeEff *= Types.getCalc(attackMove.type, defendingPokemon.secondaryType);
 
-    return Math.floor((((2.0 * 50 / 5 + 2) * attackMove.power * (atkStat / defStat)) / 50 + 2) * critical * random * stab);
+    return typeEff == 0.0 ? 0.0 : Math.floor((((2.0 * 50 / 5 + 2) * attackMove.power * (atkStat / defStat)) / 50 + 2) * critical * random * stab);
   }
 }
